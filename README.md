@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" border="1px solid red">
   <img src="https://i.pinimg.com/originals/dc/cd/25/dccd25f7f008c3ba46ec12ce946eeb79.gif" >
 </p>
 
@@ -13,6 +13,13 @@
 ## 📝 Things that I've learned with those languages:
 - Homebrew development (Wii, 3ds/nds) | C/C++
 - Redis and Express | JS
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxs710&layout=compact">
+</p>
+
+
 
 <!---
 LucasPB710/LucasPB710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
