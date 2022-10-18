@@ -1,7 +1,9 @@
 # 👋 Hi, I’m @LuxsPB710
 - 🃏 Pronouns: She/He (Ela/Ele)
+- 🌎 From: Brazil 🇧🇷
 - 🌱 I’m currently inrested in learning low level stuff
 - 💻 Some experience with Python, C++, HTML/CSS and Javascript (mostly express and redis)
+- 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷 and English 🇬🇧
 
 
 <!---
