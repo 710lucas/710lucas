@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @LuxsPB710
+# 🌈 Hi, I’m @LuxsPB710 👋
 - 🃏 Pronouns: She/He (Ela/Ele)
 - 🌎 From: Brazil 🇧🇷
 - 🌱 I’m currently inrested in learning low level stuff
