@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @LuxsPB710
 - 🃏 Pronouns: She/He (Ela/Ele)
 - 🌱 I’m currently inrested in learning low level stuff
-- 💻 I have some experience with Python, C++ and Javascript
+- 💻 Some experience with Python, C++, HTML/CSS and Javascript (mostly express and redis)
+
 
 <!---
 LucasPB710/LucasPB710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
