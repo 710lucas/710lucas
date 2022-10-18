@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @LucasPB710
-- 🃏 Pronouns: He/She (Ela/Ele)
+# 👋 Hi, I’m @LuxsPB710
+- 🃏 Pronouns: She/He (Ela/Ele)
 - 🌱 I’m currently inrested in learning low level stuff
 - 💻 I have some experience with Python, C++ and Javascript
 
