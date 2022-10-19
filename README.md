@@ -4,6 +4,7 @@
 
 
 # 🌈 Hi, I’m @LuxsPB710 👋
+- 📷 Profile picture by Dana Terrace
 - 🃏 Pronouns: She/He (Ela/Ele)
 - 🌎 From: Brazil 🇧🇷
 - 📝 I’m currently inrested in learning low level stuff
