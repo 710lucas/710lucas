@@ -11,7 +11,7 @@
 - 💻 Some experience with Python, C++, HTML/CSS and Javascript
 - 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷 and English 🇬🇧
 
-## 📝 Things that I've learned with those languages:
+## 📝 Things that I've learned with those programing languages:
 - Homebrew development (Wii, 3ds/nds) | C/C++
 - Redis and Express | JS
 
