@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact&theme=ayu-mirage">
 </p>
 
 
