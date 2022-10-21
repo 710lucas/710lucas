@@ -1,5 +1,5 @@
 <p align="center" border="1px solid red">
-  <img src="https://i.pinimg.com/originals/dc/cd/25/dccd25f7f008c3ba46ec12ce946eeb79.gif" style="width: 80%; object-fit: none;">
+  <img src="./kiki_rounded.gif" style="width: 80%; object-fit: none; background-color: red; color:red;">
 </p>
 
 
