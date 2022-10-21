@@ -17,8 +17,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxs710&layout=compact&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact">
 </p>
 
 
