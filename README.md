@@ -3,7 +3,7 @@
 </p>
 
 
-# 🌈 Hi, I’m @LuxsPB710 👋
+# 🌈 Hi, I’m Lux 👋
 - 📷 Profile picture by Dana Terrace
 - 🃏 Pronouns: She/He (Ela/Ele)
 - 🌎 From: Brazil 🇧🇷
