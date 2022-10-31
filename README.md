@@ -5,7 +5,7 @@
 
 # 🌈 Hi, I’m Lux 👋
 - 📷 Profile picture by Dana Terrace
-- 🃏 Pronouns: She/He (Ela/Ele)
+- 🃏 Pronouns: She/He (Ela/Ele) <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 25px; height:12px; display:inline;">
 - 🌎 From: Brazil 🇧🇷
 - 📝 I’m currently inrested in learning low level stuff
 - 💻 Some experience with Python, C++, HTML/CSS and Javascript
