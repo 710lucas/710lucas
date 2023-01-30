@@ -12,7 +12,7 @@
 - 📝 I’m currently inrested in learning low level stuff
 - 💻 Some experience with Python, C++, HTML/CSS and Javascript
 - 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷 and English 🇬🇧
-- 📝 Learning Java
+- 📝 Learning Java and server related things (C++)
 
 ## 📝 Things that I've learned with those programing languages:
 - Homebrew development (Wii, 3ds/nds) | C/C++
