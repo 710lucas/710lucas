@@ -7,12 +7,12 @@
 
 # <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px"> Hello there 👋
 - 📷 Profile picture by Dana Terrace
-- 🃏 Pronouns: She/He (Ela/Ele) <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 25px; height:12px; display:inline;">
+- 🃏 Pronouns: any pronouns/qualquer pronome <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 25px; height:12px; display:inline;">
 - 🌎 From: Brazil 🇧🇷
-- 📝 I’m currently inrested in learning low level stuff
 - 💻 Some experience with Python, C++, HTML/CSS and Javascript
 - 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷 and English 🇬🇧
 - 📝 Learning Java and server related things (C++)
+- 📝 Learning homebrew development for wii and 3ds
 
 ## 📝 Things that I've learned with those programing languages:
 - Homebrew development (Wii, 3ds/nds) | C/C++
