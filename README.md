@@ -14,15 +14,34 @@
 - 📝 Learning Java and server related things (C++)
 - 📝 Learning homebrew development for wii and 3ds
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact&theme=ayu-mirage">
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="120vw"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="120vw"/>
+  
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="120vw"/>
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="120vw"/>
+   <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="120vw" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="120vw"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="120vw"/>
+          
+</p>
+          
+
+
 ## 📝 Things that I've learned with those programing languages:
 - Homebrew development (Wii, 3ds/nds) | C/C++
 - Server development | C/C++
 - Redis and Express | JS
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact&theme=ayu-mirage">
-</p>
 
 
 
