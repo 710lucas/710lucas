@@ -5,12 +5,14 @@
 </p>
 
 
-# <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px"> Hello there 👋
-- 📷 Profile picture by Dana Terrace
+# <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px"> Olá! | Hello there 👋
+- 📷 Foto de perfil pela Dana Terrace
 - 🃏 Pronouns: any pronouns/qualquer pronome <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 25px; height:12px; display:inline;">
 - 🌎 From: Brazil 🇧🇷
-- 💻 Some experience with Python, C++, HTML/CSS and Javascript
-- 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷 and English 🇬🇧
+- 💻 Experiência com | Some experience with: Python, C++, HTML/CSS, Javascript and Java
+- 🌎 Linguas | Languages: Portuguese 🇧🇷, French 🇫🇷 and English 🇬🇧
+- 📝 Aprendendo Java e a criar servidores em C++
+- 📝 Aprendendo desenvolvimento de homebrew para o wii e 3ds
 - 📝 Learning Java and server related things (C++)
 - 📝 Learning homebrew development for wii and 3ds
 
@@ -33,13 +35,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90vw"/>
           
 </p>
-          
+        
+        
+## 📝 Coisas que eu sei com essas linguagens de programação:
+- Homebrew development (Wii, 3ds/nds) | C/C++
+- Server development | C/C++
+- Redis and Express | JS
 
 
 ## 📝 Things that I've learned with those programing languages:
 - Homebrew development (Wii, 3ds/nds) | C/C++
 - Server development | C/C++
 - Redis and Express | JS
+- 
 
 
 
