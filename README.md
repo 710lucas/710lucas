@@ -17,7 +17,7 @@
 - 📝 Learning homebrew development for wii and 3ds
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact&theme=ayu-mirage">
+  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe">
 </p>
 
 <p align="center">
