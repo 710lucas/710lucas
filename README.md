@@ -6,7 +6,6 @@
 
 
 # <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px"> Olá! | Hello there 👋
-- 📷 Foto de perfil pela Dana Terrace
 - 🃏 Pronouns: any pronouns/qualquer pronome <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 25px; height:12px; display:inline;">
 - 🌎 From: Brazil 🇧🇷
 - 💻 Experiência com | Some experience with: Python, C++, HTML/CSS, Javascript and Java
