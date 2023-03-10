@@ -46,7 +46,6 @@
 - Homebrew development (Wii, 3ds/nds) | C/C++
 - Server development | C/C++
 - Redis and Express | JS
-- 
 
 
 
