@@ -4,8 +4,8 @@
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 400px; height:20px; display:inline;"> -->
 </p>
 
-
-# <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px"> Olá! | Hello there 👋
+<!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
+# Olá! | Hello there 👋
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 23px; height:14px; display:inline;"> Pronouns: Any
 - 🌎 I'm from Brazil 🇧🇷
