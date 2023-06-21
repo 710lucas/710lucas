@@ -6,16 +6,23 @@
 
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
 # Olá! | Hello there 👋
-
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 23px; height:14px; display:inline;"> Pronouns: Any
-- 🌎 I'm from Brazil 🇧🇷
-- 🌎 Languages: Portuguese 🇧🇷, French 🇫🇷, English 🇬🇧
-- 🌱 I’m currently learning Java, homebrew development (C/C++) and web development
-- 🔭 I'm really interested in learning more about homebrew development, security in general and Java
+- 🌎 Linguas: Portugues 🇧🇷, Francês 🇫🇷, Inglês 🇬🇧
+- 🌱 Estou aprendendo Java, web dev e desenvolvimento de homebrew em (C/C++)
+- 🔭 Me interesso bastante em aprender mais sobre desenvolvimento de baixo nível, segurança digital e Java
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📝 Habilidades desenvolvidas:
+- Desenvolvimento de Homebrew (wii, 3ds/nds) | C/C++
+- POO | Java/C++
+- Desenvolvimento de servidores | C++/JS/Java/Python
+- Redis e Express js | JS
+- Web Dev | JS/HTML/CSS/Java/Python
 
+## 📝 Aprendendo:
+- Spring | Java
+- Emulação | Java/C++
+
+<hr>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luxs710&count_private=true&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 22vh">
@@ -44,11 +51,7 @@
  </p>
         
 
-## 📝 Things that I've learned with those programing languages:
-- Homebrew development (Wii, 3ds/nds) | C/C++
-- Server development | C/C++
-- Redis and Express | JS
-- OOP | Java
+
 
 
 
