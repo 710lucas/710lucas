@@ -25,8 +25,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 22vh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxs710&layout=compact&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=8" style="height: 22vh">
+  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 20vh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxs710&layout=compact&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=8" style="height: 20vh">
 </p>
 
 <p align="center">
@@ -38,8 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90vw"/>
   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90vw"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90vw" />
+
    <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90vw" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="90vw"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90vw"/>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="90vw"/>
