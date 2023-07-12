@@ -42,12 +42,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90vw" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="90vw"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90vw"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="90vw"/>
           
 </p>
 <p align="center">
   
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luxs710&theme=shades-of-purple&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=luxs710&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0">
+   
  </p>
         
 
