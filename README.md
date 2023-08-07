@@ -25,8 +25,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luxs710&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 30vh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxs710&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=8" style="height: 30vh">
+  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 30vh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=8" style="height: 30vh">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 <p align="center">
   
   <br>
-  <img src="https://streak-stats.demolab.com?user=luxs710&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0">
+  <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0">
    
  </p>
         
