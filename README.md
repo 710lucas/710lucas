@@ -62,7 +62,7 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0">
   <br>
-  <img align="center" src="https://profile-counter.glitch.me/{710lucas}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=710lucas">
    
  </p>
         
