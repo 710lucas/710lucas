@@ -7,8 +7,8 @@
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
 # Olá! | Hello there 👋
 - 🌎 Linguas: Portugues 🇧🇷, Francês 🇫🇷, Inglês 🇬🇧
-- 🌱 Estou aprendendo Java, web dev e desenvolvimento de homebrew em (C/C++)
-- 🔭 Me interesso bastante em aprender mais sobre desenvolvimento de baixo nível, segurança digital e Java
+- 🌱 Estou aprendendo React JS, Angular e Spring Framework
+- 🔭 Me interesso bastante em aprender mais sobre desenvolvimento de baixo nível, segurança digital e desenvolvilmento fullstack
 
 
 ## 📝 Habilidades desenvolvidas:
@@ -16,10 +16,14 @@
 - POO | Java/C++
 - Desenvolvimento de servidores | C++/JS/Java/Python
 - Redis e Express js | JS
-- Web Dev | JS/HTML/CSS/Java/Python
+- Front end | Angular/ReactJS
+- Spring Framework | Java
+- Banco de dados | PostgreSQL
 
 ## 📝 Aprendendo:
-- Spring | Java
+- Spring Framework | Java
+- Front end | Angular/ReactJS
+- Banco de dados | PostgreSQL
 - Emulação | Java/C++
 
 <hr>
@@ -57,6 +61,8 @@
   
   <br>
   <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0">
+  <br>
+  <img align="center" src="https://profile-counter.glitch.me/{710lucas}/count.svg" />
    
  </p>
         
