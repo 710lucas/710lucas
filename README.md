@@ -32,8 +32,8 @@
 </ul>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=esonaldo-pereira&layout=donut&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 24vh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="height: 24vh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=esonaldo-pereira&layout=donut&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="width: 33vw">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="width: 33vw">
 </p>
 
 <br>
