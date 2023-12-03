@@ -38,7 +38,7 @@
 <p align="left">
   
   <p align="center">
-  <img  src="https://i.pinimg.com/originals/d8/aa/d9/d8aad938f2beea672124ebf1309584c7.gif" align="right">
+  <img  src="https://i.pinimg.com/originals/d8/aa/d9/d8aad938f2beea672124ebf1309584c7.gif" align="right" style="width: 35vw">
     
   <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
   <br>
