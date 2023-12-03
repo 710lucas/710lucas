@@ -5,12 +5,21 @@
 </p>
 
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
-# Olá! | Hello there 👋
-- 🌎 Linguas: Portugues 🇧🇷, Francês 🇫🇷, Inglês 🇬🇧
-- 🌱 Estou aprendendo React JS, Angular e Spring Framework
-- 🔭 Me interesso bastante em aprender mais sobre desenvolvimento de baixo nível, segurança digital e desenvolvilmento fullstack
+<h1 align="center">Olá! | Hello there 👋</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 25vh" align="right">  
+<div align="justify">
+  Estudante da UFPB - Sitemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades aprendidas de uma maneira positiva na sociedade
+  <ul>
+    <li>🚀 Desenvolvimento </li>
+    <li>🍃 Springboot </li>
+    <li>⚛ ReactJS </li>
+    <li>☕ Java</li>
+  </ul>
+</div>
 
-<h2>📝 Habilidades desenvolvidas:</h2>
+<br><br><br>
+
+<h2 align="center">📝 Habilidades desenvolvidas:</h2>
 <img src="https://i.pinimg.com/originals/ce/95/fb/ce95fbdc557ad67cc222e89bb1e1267f.gif" align="left" style="width: 75%;">
 <ul>
   <li>Desenvolvimento de Homebrew (wii, 3ds/nds) | C/C++</li>
@@ -21,72 +30,41 @@
   <li>Spring Framework | Java</li>
   <li>Banco de dados | PostgreSQL</li>
 </ul>
-<br>
+<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="height: 25vh" align="center">
-  <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50vw" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg"  width="50vw"/>
+  <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="width: 39%">
+  </p>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50vw" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50vw"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50vw" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50vw"/>
+  
+  <p align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75vw" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg"  width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="75vw" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75vw"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="75vw" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75vw"/>
   </p>
   
-</div>
-
-
-<hr>
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 25vh">  
-
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="90vw"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="90vw"/>
-  
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90vw"/>
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="90vw"/>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90vw" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg"  width="90vw"/>
-
-   <br>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="90vw"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="90vw"/>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="90vw"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="90vw" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="90vw"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="90vw"/>
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="90vw" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="90vw"/>
-          
-          
-</p>
-<p align="center">
-  
-  <br>
-  <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0">
+  <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
   <br>
   <img src="https://komarev.com/ghpvc/?username=710lucas">
    
+</p>
+<p align="center">
+  
+
  </p>
         
 
