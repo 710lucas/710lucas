@@ -6,7 +6,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
 <h1 align="center">Olá! | Hello there 👋</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="width: 22vw" align="right">  
+<img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 22vw" align="right">  
 <div align="left">
   Estudante da UFPB - Sitemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
   <ul>
@@ -32,8 +32,8 @@
 </ul>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=esonaldo-pereira&layout=donut&bg_color=30,7c0f88,222093&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe" style="height: 21vh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="height: 21vh">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=esonaldo-pereira&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="height: 21vh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0&langs_count=5" style="height: 21vh">
 </p>
 
 <br>
@@ -62,7 +62,7 @@
     <img src="https://komarev.com/ghpvc/?username=710lucas">
     <br>
     <br>
-    <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
+    <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=341500&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
     <br>
     
 </p>
