@@ -30,15 +30,16 @@
   <li>Spring Framework | Java</li>
   <li>Banco de dados | PostgreSQL</li>
 </ul>
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="width: 39%" align="left">
+<br><br><br><br><br><br><br><br><br><br>
+<br>
+<h1 align="center">🌠Thanks for reading✨</h1>
 
-  <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=30,222093,7c0f88&title_color=fafafa&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=9e4bfe&langs_count=5" style="width: 39%">
-  </p>
-  <br>
+<p align="left">
   
   <p align="center">
-  
+  <img  src="https://i.pinimg.com/originals/d8/aa/d9/d8aad938f2beea672124ebf1309584c7.gif" align="right">
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75vw"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75vw"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75vw"/>
@@ -53,19 +54,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75vw"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="75vw" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75vw"/>
-  </p>
-  
-<br>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=710lucas">
-   
+  <p align="left">
+    <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=45%2C7C0F88%2C222093&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=710lucas">
+     
+  </p>
 </p>
-<p align="center">
   
 
- </p>
         
 
 
