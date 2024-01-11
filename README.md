@@ -6,7 +6,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
 <h1 align="center">Olá! | Hello there 👋</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="height: 20vh" align="right">  
+<img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 40%" align="right">  
 <div align="left">
   Estudante da UFPB - Sitemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
   <ul>
