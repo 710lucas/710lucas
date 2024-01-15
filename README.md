@@ -8,7 +8,7 @@
 <h1 align="center">Olá! | Hello there 👋</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 40%" align="right">  
 <div align="left">
-  Estudante da UFPB - Sitemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
+  Estudante da UFPB - Sistemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
   <ul>
     <li>🚀 Desenvolvimento </li>
     <li>🍃 Springboot </li>
