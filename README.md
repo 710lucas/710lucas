@@ -1,4 +1,4 @@
-<p align="center" border="1px solid red">
+<p align="center" >
   <img src="https://media.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" style="width: 80%; object-fit: none; border-radius: 2rem;">
 <br>
   <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 400px; height:20px; display:inline;"> -->
