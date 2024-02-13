@@ -34,7 +34,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=RISC-I-Emu&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="">
+  <a href="https://github.com/710lucas/RISC-I-Emu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=RISC-I-Emu&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style=""></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0&langs_count=5" style="">
 </p>
 
