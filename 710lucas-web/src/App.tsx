@@ -1,46 +1,27 @@
-import { useEffect, useState } from 'react'
+import { useEffect} from 'react'
 import { Home } from './Components/Home/Home';
-import { NotFound } from './Components/NotFound/NotFound';
 import { LangContextProvider } from './Contexts/LangContext';
+import { createBrowserRouter, RouterProvider} from "react-router-dom";
 
 function App() {
   
-  const [route, setRoute] = useState(window.location.pathname);
 
   useEffect(()=>{
-    const handleRouteChange = () => {
-      setRoute(window.location.pathname);
-    }
-
-    window.addEventListener('popstate', handleRouteChange);
 
     document.title = "Lucas Perônico Barbotin"
 
-    return () => {
-      window.removeEventListener('popstate', handleRouteChange);
-    }
-
   }, [])
 
-  const renderComponent = () => {
-    switch(route){
 
-      case "/":
-        return (
-        <LangContextProvider>
-          <Home/>
-        </LangContextProvider>
-        )
-      default:
-        return <NotFound/>
-
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <LangContextProvider><Home/></LangContextProvider>
     }
-  }
+  ])
 
   return (
-    <>
-      {renderComponent()}
-    </>
+    <RouterProvider router={router}/>
   )
 }
 

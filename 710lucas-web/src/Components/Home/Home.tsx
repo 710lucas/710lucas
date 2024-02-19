@@ -4,6 +4,7 @@ import { FirstPage } from "./FirstPage/FirstPage"
 import { SecondPage } from "./SecondPage/SecondPage"
 import { ThirdPage } from "./ThirdPage/ThirdPage"
 import { useLangState } from "../../Contexts/LangContext"
+import { useEffect } from "react"
 
 export function Home(){
 
@@ -15,6 +16,11 @@ export function Home(){
         else
             setLang('en')
     }
+    useEffect(()=>{
+
+        document.title = "Lucas Perônico Barbotin"
+
+    }, [])
 
     return(
         <div className="home-page">
