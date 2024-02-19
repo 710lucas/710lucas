@@ -14,6 +14,8 @@ function App() {
 
     window.addEventListener('popstate', handleRouteChange);
 
+    document.title = "Lucas Perônico Barbotin"
+
     return () => {
       window.removeEventListener('popstate', handleRouteChange);
     }
