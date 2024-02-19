@@ -1,0 +1,23 @@
+
+.skill{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    gap: 1rem;
+}
+
+.skill-name{
+    margin-right: auto;
+}
+
+.progress-container {
+    width: 50%;
+    height: 20px;
+    background-color:var(--background); /* Cor de fundo da barra de progresso */
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background-color: var(--text); /* Cor da barra de progresso preenchida */
+  }

@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Home } from './Components/Home/Home';
 import { NotFound } from './Components/NotFound/NotFound';
+import { LangContextProvider } from './Contexts/LangContext';
 
 function App() {
   
@@ -23,7 +24,11 @@ function App() {
     switch(route){
 
       case "/":
-        return <Home/>
+        return (
+        <LangContextProvider>
+          <Home/>
+        </LangContextProvider>
+        )
       default:
         return <NotFound/>
 

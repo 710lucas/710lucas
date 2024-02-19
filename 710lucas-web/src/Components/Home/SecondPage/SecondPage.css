@@ -7,6 +7,19 @@
 
 }
 
+@media screen and (max-width: 1300px) {
+    .second-page-container{
+        justify-content: center;
+        width: 100%;
+        padding: 5vh 0px;
+    }
+
+    .projects-container{
+        justify-content: center;
+        width: 100%;
+        align-self: center;
+    }
+}
 
 .projects-container{
     font-size: 4.5rem;

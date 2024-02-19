@@ -20,10 +20,16 @@
     letter-spacing: -0.25rem;
 }
 
+.greeting{
+    position: relative;
+    z-index: 1;
+}
+
 .description{
     color: var(--light-text);
     font-size: large;
     letter-spacing: normal;
+    max-width: 70%;
 }
 
 .info-container{
@@ -68,6 +74,45 @@
 
 }
 
+.scroll-down{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    bottom: 0;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 600;
+    width: 5rem;
+    height: 5rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    background-color: var(--accent);
+    color: var(--background);
+    padding: 2rem;
+    border-radius: 100%;
+    text-align: center;
+}
+
+.scroll-down-i{
+    display: inline-block;
+    padding: 0;
+    font-size: 1.25rem;
+}
+
+.name-highlight{
+    width: 14rem;
+    height: 3rem;
+    background-color: var(--accent);
+    position: relative;
+    bottom: 3.5rem;
+    margin-left: 8rem;
+    z-index: 0;
+    margin-bottom: -3rem;
+}
+
 a{
     color: inherit;
     text-decoration: none;
@@ -76,4 +121,16 @@ a{
 i{
     font-size: inherit;
     padding-right: 0.5em;
+}
+
+@media screen and (max-width: 1300px) {
+
+    .elements-container{
+        flex-direction: column;
+        gap: 4rem;
+        margin: 0;
+        justify-content: start;
+    }
+
+    
 }
