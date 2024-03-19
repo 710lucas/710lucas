@@ -14,6 +14,8 @@
     <li>🍃 Springboot </li>
     <li>⚛ ReactJS </li>
     <li>☕ Java</li>
+    <li>🧩 NodeJS</li>
+    <li>🌐 ExpressJS</li>
   </ul>
 </div>
 
@@ -59,6 +61,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="75vw"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="75vw" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75vw"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="75vw"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="75vw"/>
     <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=710lucas">
