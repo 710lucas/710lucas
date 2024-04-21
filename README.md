@@ -2,6 +2,7 @@
 </h1>
 
 <img src="./banner.svg" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636" align="right">
 
 <p align="left">
   
@@ -60,8 +61,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=compact">  
 </p>
 
-<img src="https://streak-stats.demolab.com?user=710lucas&hide_border=true" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=710lucas" >
+<img src="https://streak-stats.demolab.com?user=710lucas&hide_border=true">
+
 
   
 
