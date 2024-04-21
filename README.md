@@ -1,12 +1,20 @@
-<p align="center" >
-  <img src="https://media.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" style="width: 80%; object-fit: contain; border-radius: 2rem;">
-<br>
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Nonbinary_flag.svg" style="width: 400px; height:20px; display:inline;"> -->
+
+<p align='center'>
+  <img src="https://media.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" style="width: 60%; object-fit: contain; border-radius: 2rem;">
 </p>
+
 
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
 <h1 align="center">Olá! | Hello there 👋</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 40%" align="right">  
+<p align='center'>
+  <img src="./banner.svg" align='center'>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 40%" align="right">  
+  
+</p>
+
+
 <div align="left">
   Estudante da UFPB - Sistemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
   <ul>
@@ -17,6 +25,8 @@
     <li>🧩 NodeJS</li>
     <li>🌐 ExpressJS</li>
   </ul>
+  
+  
 </div>
 
 <br><br><br>
