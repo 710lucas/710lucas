@@ -1,17 +1,16 @@
 <h1 align="left">Olá! | Hello there 👋
 </h1>
 
-<img src="./banner.svg" align="right">
-<img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636" align="right">
+<img src="./banner.svg" align="right" height="10%">
 
 <p align="left">
   
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org)
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
-
   - 💬 Ask me about **3ds homebrew** and **web dev**
-  - 🎲 Hobbies: Photography 📷
+  - 🎲 Hobbies: Photography 📷  
   - 🌱 I’m currently learning:
+    <img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636" align="right">
     <details open>
       <summary>Backend</summary>
   
@@ -47,11 +46,9 @@
       
     </details>
   
-    
 
-    
-  
 </p>
+
 
 <br>
 <br>
