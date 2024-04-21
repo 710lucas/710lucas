@@ -1,61 +1,72 @@
+<h1 align="left">Olá! | Hello there 👋
+</h1>
 
-<p align='center'>
-  <img src="https://media.tenor.com/21smuBToyzEAAAAd/kikis-delivery-service-ghibli.gif" style="width: 60%; object-fit: contain; border-radius: 2rem;">
-</p>
-
-
-<!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
-<h1 align="left">Olá! | Hello there 👋</h1>
-<p align='center'>
-  <img src="./banner.svg" align='center'>
-</p>
-
-<br>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 50%" align="right">  
-</p>
-
-
-<p align="left" style="max-width: 20%" align="left">
-  Estudante da UFPB - Sistemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
-  <ul>
-    <li>🚀 Desenvolvimento </li>
-    <li>🍃 Springboot </li>
-    <li>⚛ ReactJS </li>
-    <li>☕ Java</li>
-    <li>🧩 NodeJS</li>
-    <li>🌐 ExpressJS</li>
-  </ul>
-</p>
-
-<br><br><br>
-
-<h2 align="left">📝 Habilidades desenvolvidas:</h2>
-<img src="https://i.pinimg.com/originals/ce/95/fb/ce95fbdc557ad67cc222e89bb1e1267f.gif" align="left" style="width: 80%;">
-<ul>
-  <li>Desenvolvimento de Homebrew (wii, 3ds/nds) | C/C++</li>
-  <li>POO | Java/C++</li>
-  <li>Desenvolvimento de servidores | C++/JS/Java/Python</li>
-  <li>Redis e Express js | JS</li>
-  <li>Front end | Angular/ReactJS</li>
-  <li>Spring Framework | Java</li>
-  <li>Banco de dados | PostgreSQL</li>
-</ul>
-<br>
-<br>
-<br>
-<p align="center">
-  <a href="https://github.com/710lucas/RISC-I-Emu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=710lucas&repo=RISC-I-Emu&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style=""></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=donut&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0&langs_count=5" style="">
-</p>
-
-<br>
-<h1 align="center">🌠Thanks for reading✨</h1>
+<img src="./banner.svg" align="right">
 
 <p align="left">
   
-  <p align="center">
+  - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/)
+  - 🌱 I’m currently learning:
+    <details>
+      <summary>Backend (click to expand)</summary>
+  
+    - Spring
+    - ExpressJS
+    - Fastify
+    - C++ (http)
+      
+    </details>
+    <details>
+      <summary>Frontend</summary>
+  
+    - Typescript
+    - ReactJS
+    - Angular
+      
+    </details>
+        </details>
+    <details>
+      <summary>Other</summary>
+  
+    - homebrew (3ds, wii)
+    - C++
+    - Low level coding
+      
+    </details>
+  - 💬 Ask me about **3ds homebrew** and **web dev**
+  - ⚡ Fun fact: I created those projects:
+    - [Esonaldo Pereira](https://github.com/710lucas/esonaldo-pereira): An [esolang](https://esolangs.org/wiki/Esoteric_programming_language)
+    - [RISC-I emulator](https://github.com/710lucas/RISC-I-Emu): A simple RISC-I emulator
+    
+  
+</p>
+
+<br>
+<br>
+
+<h2>
+  📊 Stats 
+</h2>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=compact">  
+</p>
+
+<img src="https://streak-stats.demolab.com?user=710lucas&hide_border=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=710lucas" >
+
+  
+
+
+
+
+
+
+<br>
+<br>
+
+<p align="left">
     <img  src="https://i.pinimg.com/originals/d8/aa/d9/d8aad938f2beea672124ebf1309584c7.gif" style="height: 50vh" align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75vw"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75vw"/>
@@ -78,11 +89,8 @@
     <img src="https://komarev.com/ghpvc/?username=710lucas">
     <br>
     <br>
-    <img src="https://streak-stats.demolab.com?user=710lucas&theme=dark&hide_border=true&background=341500&stroke=EBEBEB&fire=EBB0B0" style="height: 20vh">
-    <br>
-    
 </p>
-  
+
 
         
 
