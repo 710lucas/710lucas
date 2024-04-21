@@ -5,7 +5,7 @@
 
 
 <!-- <img src="https://raw.githubusercontent.com/Luxs710/Luxs710/main/coracao.png" width="35px">  -->
-<h1 align="center">Olá! | Hello there 👋</h1>
+<h1 align="left">Olá! | Hello there 👋</h1>
 <p align='center'>
   <img src="./banner.svg" align='center'>
 </p>
