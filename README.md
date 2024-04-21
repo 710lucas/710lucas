@@ -38,7 +38,7 @@
   - 💬 Ask me about **3ds homebrew** and **web dev**
   - ⚡ Fun fact: I created those projects:
      <details open>
-      <summary>Backend</summary>
+      <summary>Projects</summary>
   
     - [Esonaldo Pereira](https://github.com/710lucas/esonaldo-pereira): An [esolang](https://esolangs.org/wiki/Esoteric_programming_language)
     - [RISC-I emulator](https://github.com/710lucas/RISC-I-Emu): A simple RISC-I emulator
