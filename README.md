@@ -3,7 +3,7 @@
 
 <img src="./banner.svg" align="right" height="10%">
 
-<p align="left">
+<p align="left" width="50%">
   
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org)
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
