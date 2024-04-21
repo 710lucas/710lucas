@@ -13,7 +13,7 @@
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=34150000&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 50%" align="right">  
+  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 50%" align="right">  
 </p>
 
 
