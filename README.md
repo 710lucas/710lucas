@@ -9,13 +9,15 @@
 <p align='center'>
   <img src="./banner.svg" align='center'>
 </p>
+
+<br>
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=341500&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 40%" align="right">  
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=710lucas&layout=compact&bg_color=34150000&title_color=e4e4e4&text_color=e0e0e0&hide_border=true&border_radius=7&ring_color=e0e0e0" style="width: 50%" align="right">  
 </p>
 
 
-<div align="left">
+<p align="left" style="max-width: 20%" align="left">
   Estudante da UFPB - Sistemas de informação, busco sempre me atualizar no mundo da tecnologia e entender como aplicar as habilidades desenvolvidas de maneira positiva na sociedade
   <ul>
     <li>🚀 Desenvolvimento </li>
@@ -25,13 +27,11 @@
     <li>🧩 NodeJS</li>
     <li>🌐 ExpressJS</li>
   </ul>
-  
-  
-</div>
+</p>
 
 <br><br><br>
 
-<h2 align="center">📝 Habilidades desenvolvidas:</h2>
+<h2 align="left">📝 Habilidades desenvolvidas:</h2>
 <img src="https://i.pinimg.com/originals/ce/95/fb/ce95fbdc557ad67cc222e89bb1e1267f.gif" align="left" style="width: 80%;">
 <ul>
   <li>Desenvolvimento de Homebrew (wii, 3ds/nds) | C/C++</li>
