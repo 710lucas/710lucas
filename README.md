@@ -5,10 +5,11 @@
 
 <p align="left">
   
-  - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/)
+  - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org)
+  - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
   - 🌱 I’m currently learning:
-    <details>
-      <summary>Backend (click to expand)</summary>
+    <details open>
+      <summary>Backend</summary>
   
     - Spring
     - ExpressJS
@@ -17,7 +18,7 @@
       
     </details>
     <details>
-      <summary>Frontend</summary>
+      <summary>Frontend (click to expand)</summary>
   
     - Typescript
     - ReactJS
@@ -35,8 +36,14 @@
     </details>
   - 💬 Ask me about **3ds homebrew** and **web dev**
   - ⚡ Fun fact: I created those projects:
+     <details open>
+      <summary>Backend</summary>
+  
     - [Esonaldo Pereira](https://github.com/710lucas/esonaldo-pereira): An [esolang](https://esolangs.org/wiki/Esoteric_programming_language)
     - [RISC-I emulator](https://github.com/710lucas/RISC-I-Emu): A simple RISC-I emulator
+      
+    </details>
+
     
   
 </p>
