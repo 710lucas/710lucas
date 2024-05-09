@@ -10,7 +10,7 @@
   - 💬 Ask me about **3ds homebrew** and **web dev**
   - 🎲 Hobbies: Photography 📷  
   - 🌱 I’m currently learning:
-    <img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=575" align="right">
     <details open>
       <summary>Backend</summary>
   
