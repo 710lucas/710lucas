@@ -1,7 +1,7 @@
 <h1 align="left">Olá! | Hello there 👋
 </h1>
 
-<img src="./banner.svg" align="right" height="10%">
+<img src="./banner.svg" align="right" width="470px">
 
 <p align="left" width="50%">
   
@@ -10,7 +10,7 @@
   - 💬 Ask me about **3ds homebrew** and **web dev**
   - 🎲 Hobbies: Photography 📷  
   - 🌱 I’m currently learning:
-    <img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=575" align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
     <details open>
       <summary>Backend</summary>
   
