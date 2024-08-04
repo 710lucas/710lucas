@@ -44,6 +44,7 @@
     - [Esonaldo Pereira](https://github.com/710lucas/esonaldo-pereira): An [esolang](https://esolangs.org/wiki/Esoteric_programming_language)
     - [RISC-I emulator](https://github.com/710lucas/RISC-I-Emu): A simple RISC-I emulator
     - [RISC-I compiler](https://github.com/710lucas/RISC-I-Compiler): A compiler for the RISC-I emulator
+    - [Web RISC-I Compiler & Code editor](https://github.com/710lucas/RISC-I-Compiler-web/actions): A simple code editor and compiler made in html, css and JS
       
     </details>
   
