@@ -8,7 +8,37 @@
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org)
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
   - 💬 Ask me about **3ds homebrew** and **web dev**
-  - 🎲 Hobbies: Photography 📷  
+  - 🎲 Hobbies: Photography 📷
+  - 🌳 Tech I'm currently using:
+    <details>
+      <summary>Code editors</summary>
+
+      - VSCode
+      - Vim
+    </details>
+    <details>
+      <summary>Languages</summary>    
+      
+    - C++
+    - Javascript
+    - Typescript
+    - Java
+    </details>
+    <details>
+      <summary>Computer/OS</summary>
+
+      - Notebook: Lenovo Legion Slim 5i
+      - OS: Windows 11/Arch Linux
+    </details>
+    <details>
+      <summary>Frameworks</summary>
+
+      - ExpressJS
+      - Fastify
+      - ReactJS
+
+    </details>
+
   - 🌱 I’m currently learning:
     <img src="https://github-readme-stats-710lucas.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
     <details open>
