@@ -7,6 +7,13 @@
   
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org)
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
+    <details>
+      <summary>🌍 Cybersecurity WCUC - UK</summary>
+
+      - Exchange program: Paraíba sem fronteiras
+      - Studied for 4 months
+
+    </details>
   - 💬 Ask me about **RISC-I**, **3ds homebrew**, **fullstack development**
   - 🎲 Hobbies: Photography 📷 | Volleyball 🏐
   - 🌳 Tech I'm currently using:
