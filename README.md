@@ -6,7 +6,7 @@
 <p align="left" width="50%">
   
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org) as a **Fullstack developer**
-  - 🔭 Internship at [LedgerTec](https://ledgertec.com.br/) as a **Backend developer**
+  - 🔭 Internship at [LedgerTec](https://ledgertec.com.br/) as a **Fullstack developer**
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
     <details>
       <summary>🌍 Cybersecurity WCUC - UK</summary>
