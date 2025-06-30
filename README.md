@@ -118,8 +118,8 @@
 <br>
 <br>
 
-<p align="left">
-    <img  src="https://i.pinimg.com/originals/d8/aa/d9/d8aad938f2beea672124ebf1309584c7.gif" style="height: 50vh" align="right">
+<p align="center">
+<!--     <img  src="https://i.pinimg.com/originals/d8/aa/d9/d8aad938f2beea672124ebf1309584c7.gif" style="height: 50vh" align="right"> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75vw"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="75vw"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="75vw"/>
