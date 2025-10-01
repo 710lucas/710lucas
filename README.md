@@ -15,15 +15,17 @@
       - Studied for 4 months
 
     </details>
+    <br/>
   - 💬 Ask me about **RISC-I**, **3ds homebrew**, **fullstack development**
   - 🎲 Hobbies: Photography 📷 | Volleyball 🏐
-  - 🌳 Tech I'm currently using:
+  - 💻 Tech I'm currently using:
     <img src="https://github-readme-stats-710lucas.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
     <details>
       <summary>Code editors</summary>
 
       - VSCode
       - Vim
+      - Intellij
     </details>
     <details>
       <summary>Languages</summary>    
@@ -32,12 +34,24 @@
     - Javascript
     - Typescript
     - Java
+    - Python
     </details>
     <details>
       <summary>Computer/OS</summary>
 
       - Notebook: Lenovo Legion Slim 5i
-      - OS: Windows 11/Arch Linux
+      - OS: Windows 11/Arch Linux/Fedora
+      - Server: Sinapse - an old laptop running some services listed bellow
+          <details>
+            <summary>Sinapse's Services</summary>
+   
+          - Minecraft Server
+          - Github actions runner
+          - Personal websites
+          - Personal "NAS"
+          - Some DBs
+          - Others
+          </details>
     </details>
     <details>
       <summary>Frameworks</summary>
@@ -45,11 +59,12 @@
       - ExpressJS
       - Fastify
       - ReactJS
+      - NextJS
       - Spring
 
     </details>
 
-  - 🌱 I’m currently learning:
+  - 🌳 Tech I know well:
     
     <details open>
       <summary>Backend</summary>
@@ -58,6 +73,8 @@
     - ExpressJS
     - Fastify
     - C++ (http)
+    - CrewAi
+    - Python
       
     </details>
     <details>
@@ -66,6 +83,7 @@
     - Typescript
     - ReactJS
     - Angular
+    - NextJS
       
     </details>
         </details>
