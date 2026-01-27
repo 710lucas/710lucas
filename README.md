@@ -19,7 +19,7 @@
   - 💬 Ask me about **RISC-I**, **3ds homebrew**, **fullstack development**
   - 🎲 Hobbies: Photography 📷 | Volleyball 🏐
   - 💻 Tech I'm currently using:
-    <img src="https://github-readme-stats.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
+    <img src="https://github-readme-stats-710lucas.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
     <details>
       <summary>Code editors</summary>
 
