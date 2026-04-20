@@ -1,294 +1,273 @@
 <!DOCTYPE html>
-<html lang="pt-BR" class="scroll-smooth">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lucas Barbotin | Desenvolvedor Fullstack</title>
-    
-    <!-- Favicon Minimalista (LB.) -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2280%22 font-family=%22Inter, sans-serif%22 font-weight=%22bold%22 fill=%22white%22>LB</text><circle cx=%2285%22 cy=%2275%22 r=%2210%22 fill=%22%233b82f6%22/></svg>">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lucas Perônico Barbotin - Portfólio</title>
+  
+  <!-- Favicon SVG adaptável embutido como Data URI -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='100' height='100'%3E%3Cstyle%3E.bg%7Bfill:%23FAFAFA%7D.border%7Bstroke:%23E2E8F0;stroke-width:4;fill:none%7D.text%7Bfill:%232563EB;font-family:system-ui,-apple-system,sans-serif;font-weight:800;font-size:42px%7D@media (prefers-color-scheme:dark)%7B.bg%7Bfill:%230F172A%7D.border%7Bstroke:%23334155%7D.text%7Bfill:%2360A5FA%7D%7D%3C/style%3E%3Crect width='90' height='90' x='5' y='5' rx='20' class='bg'/%3E%3Crect width='90' height='90' x='5' y='5' rx='20' class='border'/%3E%3Ctext x='50' y='65' class='text' text-anchor='middle'%3ELB%3C/text%3E%3C/svg%3E">
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Inter', sans-serif; }
-        .glass { background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.05); }
-        .text-gradient { background: linear-gradient(to right, #60a5fa, #a78bfa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        @keyframes fade-in { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-        .animate-in { animation: fade-in 0.8s ease-out forwards; }
-        
-        /* Ajuste para o menu mobile */
-        #mobile-menu.open { transform: translateX(0); }
-    </style>
+  <!-- Tailwind CSS via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <!-- Lucide Icons via CDN -->
+  <script src="https://unpkg.com/lucide@latest"></script>
 </head>
-<body class="bg-neutral-950 text-neutral-200 antialiased selection:bg-blue-500/30">
-
-    <!-- Navegação -->
-    <nav class="fixed top-0 w-full z-50 glass">
-        <div class="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
-            <span class="text-xl font-bold tracking-tighter text-white">LB<span class="text-blue-500">.</span></span>
-            
-            <!-- Menu Desktop -->
-            <div class="hidden md:flex space-x-8 text-sm font-medium text-neutral-400 items-center">
-                <a href="#sobre" class="hover:text-white transition-colors">Sobre</a>
-                <a href="#experiencia" class="hover:text-white transition-colors">Experiência</a>
-                <a href="#projetos" class="hover:text-white transition-colors">Projetos</a>
-                <a href="#contato" class="px-4 py-2 bg-white text-black rounded-full hover:bg-neutral-200 transition-all text-center">Contato</a>
-            </div>
-
-            <!-- Botão Mobile -->
-            <button id="menu-btn" class="md:hidden text-white p-2 focus:outline-none" aria-label="Abrir menu">
-                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
-            </button>
-        </div>
-    </nav>
-
-    <!-- Overlay Menu Mobile -->
-    <div id="mobile-menu" class="fixed inset-0 z-40 bg-neutral-950 transform translate-x-full transition-transform duration-300 md:hidden flex flex-col items-center justify-center space-y-8 text-2xl font-bold">
-        <a href="#sobre" class="mobile-link hover:text-blue-400 transition-colors">Sobre</a>
-        <a href="#experiencia" class="mobile-link hover:text-blue-400 transition-colors">Experiência</a>
-        <a href="#projetos" class="mobile-link hover:text-blue-400 transition-colors">Projetos</a>
-        <a href="#contato" class="mobile-link px-8 py-3 bg-white text-black rounded-full hover:bg-neutral-200 transition-all">Contato</a>
-    </div>
-
-    <main class="max-w-5xl mx-auto px-6 pt-24 md:pt-32 pb-20">
+<body class="min-h-screen bg-[#FAFAFA] text-slate-800 font-sans selection:bg-blue-200 selection:text-blue-900">
+  
+  <div id="root">
+    <!-- Header / Hero Section -->
+    <header class="max-w-4xl mx-auto pt-24 pb-16 px-6 sm:px-8">
+      <div class="space-y-6">
+        <h1 class="text-4xl sm:text-5xl font-bold tracking-tight text-slate-900">
+          Lucas Perônico Barbotin
+        </h1>
+        <h2 class="text-xl sm:text-2xl font-medium text-blue-600">
+          Desenvolvedor Fullstack
+        </h2>
+        <p class="max-w-2xl text-lg text-slate-600 leading-relaxed">
+          Graduando em Sistemas de Informação pela UFPB com vivência internacional em Cibersegurança na Inglaterra. 
+          Apaixonado por criar soluções eficientes e escaláveis, atuando em todo o ciclo de desenvolvimento 
+          — desde a arquitetura de backend e integrações com IA até a implementação de interfaces modernas.
+        </p>
         
-        <!-- Hero Section -->
-        <section class="mb-24 md:mb-32 animate-in">
-            <div class="inline-block px-3 py-1 mb-6 text-[10px] md:text-xs font-semibold tracking-widest text-blue-400 uppercase bg-blue-500/10 rounded-full">
-                Sistemas de Informação @ UFPB
+        <div class="flex flex-wrap gap-4 pt-4">
+          <a href="mailto:lucasperonicobarbotin@gmail.com" class="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-medium">
+            <i data-lucide="mail" width="18" height="18"></i>
+            Contato
+          </a>
+          <a href="https://github.com/lucasperonicobarbotin" target="_blank" rel="noreferrer" class="flex items-center gap-2 px-4 py-2 bg-slate-900 text-white rounded-lg hover:bg-slate-800 transition-colors text-sm font-medium shadow-sm">
+            <i data-lucide="github" width="18" height="18"></i>
+            GitHub
+          </a>
+          <a href="https://linkedin.com/in/lucas-perônico-barbotin" target="_blank" rel="noreferrer" class="flex items-center gap-2 px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg hover:border-blue-300 hover:text-blue-600 transition-colors text-sm font-medium shadow-sm">
+            <i data-lucide="linkedin" width="18" height="18"></i>
+            LinkedIn
+          </a>
+          <a href="http://lattes.cnpq.br/0479698185420483" target="_blank" rel="noreferrer" class="flex items-center gap-2 px-4 py-2 bg-white border border-slate-200 text-slate-700 rounded-lg hover:border-blue-300 hover:text-blue-600 transition-colors text-sm font-medium shadow-sm">
+            <i data-lucide="external-link" width="18" height="18"></i>
+            Currículo Lattes
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-6 sm:px-8 space-y-24 pb-24">
+      
+      <!-- Skills Section -->
+      <section>
+        <div class="flex items-center gap-3 mb-8">
+          <i data-lucide="code" class="text-blue-600 w-6 h-6"></i>
+          <h3 class="text-2xl font-semibold text-slate-900">Competências Técnicas</h3>
+        </div>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center gap-2 mb-4 text-slate-800">
+              <i data-lucide="layout" class="text-blue-500 w-5 h-5"></i>
+              <h4 class="font-semibold">Frontend</h4>
             </div>
-            <h1 class="text-5xl sm:text-6xl md:text-8xl font-bold tracking-tighter text-white mb-6 md:mb-8 leading-none">
-                Lucas <br> <span class="text-neutral-500">Barbotin</span>
-            </h1>
-            <p class="text-lg md:text-2xl text-neutral-400 max-w-2xl leading-relaxed mb-8 md:mb-10">
-                Desenvolvedor <span class="text-white">Fullstack</span> especializado em IA Generativa, Emulação e arquiteturas modernas. 
+            <div class="flex flex-wrap gap-2">
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">React.js</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Next.js</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">TypeScript</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Tailwind CSS</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">JavaScript</span>
+            </div>
+          </div>
+
+          <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center gap-2 mb-4 text-slate-800">
+              <i data-lucide="server" class="text-blue-500 w-5 h-5"></i>
+              <h4 class="font-semibold">Backend & IA</h4>
+            </div>
+            <div class="flex flex-wrap gap-2">
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Node.js</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Fastify</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Express</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Python</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">CrewAI</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">SQL</span>
+            </div>
+          </div>
+
+          <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm hover:shadow-md transition-shadow">
+            <div class="flex items-center gap-2 mb-4 text-slate-800">
+              <i data-lucide="terminal" class="text-blue-500 w-5 h-5"></i>
+              <h4 class="font-semibold">DevOps & Outros</h4>
+            </div>
+            <div class="flex flex-wrap gap-2">
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Docker</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">AWS</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Linux</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Git</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Blockchain</span>
+              <span class="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs font-medium">Archivematica</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Experience Section -->
+      <section>
+        <div class="flex items-center gap-3 mb-8">
+          <i data-lucide="briefcase" class="text-blue-600 w-6 h-6"></i>
+          <h3 class="text-2xl font-semibold text-slate-900">Experiência Profissional</h3>
+        </div>
+
+        <div class="space-y-8 border-l-2 border-blue-100 pl-6 relative">
+          <!-- LedgerTec -->
+          <div class="relative">
+            <div class="absolute -left-[31px] top-1.5 bg-[#FAFAFA] p-1">
+              <div class="w-3 h-3 bg-blue-600 rounded-full"></div>
+            </div>
+            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-2">
+              <h4 class="text-lg font-semibold text-slate-900">Estagiário Fullstack</h4>
+              <span class="text-sm font-medium text-blue-600">Jan 2025 – Presente</span>
+            </div>
+            <p class="text-slate-700 font-medium mb-3">LedgerTec</p>
+            <ul class="list-none space-y-2 text-slate-600 text-sm">
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> Ciclo completo de desenvolvimento de software moderno (TypeScript) para soluções escaláveis e performáticas.</li>
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> <b>Backend:</b> Criação e manutenção de APIs de alta performance com Fastify, integrações com Blockchain e Archivematica.</li>
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> <b>Frontend & Modernização:</b> Construção de interfaces em Next.js/React.js e liderança no redesign com Tailwind CSS.</li>
+            </ul>
+          </div>
+
+          <!-- Laboratório AYTY - Viva Móveis -->
+          <div class="relative">
+            <div class="absolute -left-[31px] top-1.5 bg-[#FAFAFA] p-1">
+              <div class="w-3 h-3 bg-slate-300 rounded-full"></div>
+            </div>
+            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-2">
+              <h4 class="text-lg font-semibold text-slate-900">Desenvolvedor Fullstack (Bolsista)</h4>
+              <span class="text-sm font-medium text-slate-500">2024 – Presente</span>
+            </div>
+            <p class="text-slate-700 font-medium mb-3">Laboratório AYTY / Viva Móveis</p>
+            <ul class="list-none space-y-2 text-slate-600 text-sm">
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> Desenvolvimento end-to-end de novos sistemas, participando desde a concepção arquitetural até entregas de funcionalidades.</li>
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> <b>IA Generativa:</b> Implementação de fluxos de automação usando Python e CrewAI, orquestrando agentes inteligentes.</li>
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> <b>DevOps:</b> Deploy em Linux/AWS utilizando Docker.</li>
+            </ul>
+          </div>
+
+          <!-- Laboratório AYTY - CODATA -->
+          <div class="relative">
+            <div class="absolute -left-[31px] top-1.5 bg-[#FAFAFA] p-1">
+              <div class="w-3 h-3 bg-slate-300 rounded-full"></div>
+            </div>
+            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-2">
+              <h4 class="text-lg font-semibold text-slate-900">Estagiário Fullstack</h4>
+              <span class="text-sm font-medium text-slate-500">2023 – 2024</span>
+            </div>
+            <p class="text-slate-700 font-medium mb-3">Laboratório AYTY / CODATA (Companhia de Processamento de Dados da Paraíba)</p>
+            <ul class="list-none space-y-2 text-slate-600 text-sm">
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> Desenvolvimento de softwares governamentais e melhoria de processos internos.</li>
+              <li class="flex gap-2"><span class="text-blue-400">▹</span> Stack utilizada: NodeJS, ReactJS, Next.js, NestJS, Archivematica.</li>
+            </ul>
+          </div>
+          
+           <!-- Freelancer -->
+           <div class="relative">
+            <div class="absolute -left-[31px] top-1.5 bg-[#FAFAFA] p-1">
+              <div class="w-3 h-3 bg-slate-300 rounded-full"></div>
+            </div>
+            <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between mb-2">
+              <h4 class="text-lg font-semibold text-slate-900">Programador Freelance</h4>
+              <span class="text-sm font-medium text-slate-500">Set 2022 – Nov 2023</span>
+            </div>
+            <p class="text-slate-600 text-sm">Atuação como autônomo prestando serviços de desenvolvimento e codificação.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Education Section -->
+      <section>
+        <div class="flex items-center gap-3 mb-8">
+          <i data-lucide="graduation-cap" class="text-blue-600 w-6 h-6"></i>
+          <h3 class="text-2xl font-semibold text-slate-900">Formação Acadêmica</h3>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+            <div class="flex justify-between items-start mb-4">
+              <div>
+                <h4 class="font-semibold text-slate-900">Sistemas de Informação</h4>
+                <p class="text-sm text-slate-600 mt-1">Universidade Federal da Paraíba (UFPB)</p>
+              </div>
+              <span class="text-xs font-medium text-blue-600 bg-blue-50 px-2 py-1 rounded">2022 - Atual</span>
+            </div>
+            <p class="text-sm text-slate-600">
+              Monitor de disciplinas de programação (Linguagem de Programação e Introdução à Programação), coordenador do projeto "Portal Potiguara" e bolsista em projetos de extensão.
             </p>
-            <div class="flex flex-col sm:flex-row gap-4">
-                <a href="https://linkedin.com/in/lucasbarbotin" target="_blank" class="flex items-center justify-center gap-2 px-6 py-3 rounded-xl glass hover:bg-neutral-900 transition-all font-medium text-white">
-                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-                    LinkedIn
-                </a>
-                <a href="https://github.com/710lucas" target="_blank" class="flex items-center justify-center gap-2 px-6 py-3 rounded-xl glass hover:bg-neutral-900 transition-all font-medium text-white">
-                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
-                    GitHub
-                </a>
+          </div>
+
+          <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm">
+            <div class="flex justify-between items-start mb-4">
+              <div>
+                <h4 class="font-semibold text-slate-900">Intercâmbio: Cibersegurança</h4>
+                <p class="text-sm text-slate-600 mt-1">Warwickshire College & Univ. Centre (Inglaterra)</p>
+              </div>
+              <span class="text-xs font-medium text-blue-600 bg-blue-50 px-2 py-1 rounded">2024</span>
             </div>
-        </section>
+            <p class="text-sm text-slate-600">
+              Participante do programa "Paraíba Sem Fronteiras" (Governo da PB). Extensão universitária internacional (180h) focada em Redes de Computadores e Cibersegurança.
+            </p>
+          </div>
+        </div>
+      </section>
 
-        <!-- Sobre -->
-        <section id="sobre" class="mb-32 grid md:grid-cols-2 gap-12 items-start opacity-0">
-            <div>
-                <h2 class="text-xs font-bold tracking-widest text-neutral-500 uppercase mb-4">Sobre Mim</h2>
-                <p class="text-base md:text-lg text-neutral-400 leading-relaxed">
-                    Sou um desenvolvedor apaixonado por sistemas de baixo nível e inteligência artificial. Com experiência acadêmica na <span class="text-white font-medium">Inglaterra (WCUC)</span> em Cibersegurança, desenvolvo desde emuladores de CPU até orquestradores de <span class="text-white font-medium">agentes de IA</span>. Atualmente na UFPB, exploro as fronteiras entre a engenharia de software e a inovação tecnológica.
-                </p>
-            </div>
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div class="glass p-5 md:p-6 rounded-2xl">
-                    <h3 class="text-white font-bold mb-2">Engenharia</h3>
-                    <p class="text-sm text-neutral-500">C++, Java, Emulação de Hardware, Esolangs</p>
-                </div>
-                <div class="glass p-5 md:p-6 rounded-2xl">
-                    <h3 class="text-white font-bold mb-2">Web Stack</h3>
-                    <p class="text-sm text-neutral-500">Node.js, React, TypeScript, Fastify</p>
-                </div>
-                <div class="glass p-5 md:p-6 rounded-2xl">
-                    <h3 class="text-white font-bold mb-2">IA & Dados</h3>
-                    <p class="text-sm text-neutral-500">Python, CrewAi, Agentes Autônomos</p>
-                </div>
-                <div class="glass p-5 md:p-6 rounded-2xl">
-                    <h3 class="text-white font-bold mb-2">DevOps</h3>
-                    <p class="text-sm text-neutral-500">Docker, AWS, Linux (Fedora/Arch)</p>
-                </div>
-            </div>
-        </section>
+      <!-- Languages & Extra -->
+      <section class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div>
+          <div class="flex items-center gap-3 mb-6">
+            <i data-lucide="book-open" class="text-blue-600 w-6 h-6"></i>
+            <h3 class="text-xl font-semibold text-slate-900">Idiomas</h3>
+          </div>
+          <ul class="space-y-4">
+            <li class="flex justify-between items-center border-b border-slate-100 pb-2">
+              <span class="font-medium text-slate-800">Português</span>
+              <span class="text-sm text-blue-600">Nativo</span>
+            </li>
+            <li class="flex justify-between items-center border-b border-slate-100 pb-2">
+              <span class="font-medium text-slate-800">Inglês</span>
+              <span class="text-sm text-blue-600">Avançado</span>
+            </li>
+            <li class="flex justify-between items-center border-b border-slate-100 pb-2">
+              <span class="font-medium text-slate-800">Francês</span>
+              <span class="text-sm text-blue-600">Avançado</span>
+            </li>
+          </ul>
+        </div>
 
-        <!-- Experiência -->
-        <section id="experiencia" class="mb-32 opacity-0">
-            <h2 class="text-xs font-bold tracking-widest text-neutral-500 uppercase mb-12">Experiência Profissional</h2>
-            
-            <div class="space-y-12">
-                <!-- LedgerTec -->
-                <div class="group relative pl-6 md:pl-8 border-l border-neutral-800 pb-2 hover:border-blue-500 transition-colors">
-                    <div class="absolute w-3 h-3 bg-neutral-800 group-hover:bg-blue-500 rounded-full -left-[6.5px] top-1.5 transition-colors"></div>
-                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
-                        <h3 class="text-lg md:text-xl font-bold text-white leading-tight">Estagiário Fullstack — LedgerTec</h3>
-                        <span class="text-xs md:text-sm text-neutral-500 font-mono mt-1 md:mt-0">2025 — Presente</span>
-                    </div>
-                    <p class="text-sm md:text-base text-neutral-400 mb-4 max-w-3xl leading-relaxed">
-                        Desenvolvimento de APIs de alta performance com Fastify, integração com sistemas de preservação digital (Archivematica) e redes Blockchain. Implementação de front-ends modernos e liderança no redesign de interfaces.
-                    </p>
-                    <div class="flex flex-wrap gap-2">
-                        <span class="text-[10px] px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-400">TypeScript</span>
-                        <span class="text-[10px] px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-400">Next.js</span>
-                        <span class="text-[10px] px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-400">Blockchain</span>
-                    </div>
-                </div>
-
-                <!-- AYTY-Viva Móveis -->
-                <div class="group relative pl-6 md:pl-8 border-l border-neutral-800 pb-2 hover:border-blue-500 transition-colors">
-                    <div class="absolute w-3 h-3 bg-neutral-800 group-hover:bg-blue-500 rounded-full -left-[6.5px] top-1.5 transition-colors"></div>
-                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
-                        <h3 class="text-lg md:text-xl font-bold text-white leading-tight">Bolsista Fullstack — AYTY / Viva Móveis</h3>
-                        <span class="text-sm text-neutral-500 font-mono mt-1 md:mt-0">2024 — Presente</span>
-                    </div>
-                    <p class="text-sm md:text-base text-neutral-400 mb-4 max-w-3xl leading-relaxed">
-                        Criação de soluções ponta a ponta. Destaque para o desenvolvimento de fluxos de automação com IA Generativa (CrewAi e Python), orquestrando agentes para otimizar processos internos e de atendimento.
-                    </p>
-                    <div class="flex flex-wrap gap-2">
-                        <span class="text-[10px] px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-400">Python</span>
-                        <span class="text-[10px] px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-400">CrewAi</span>
-                        <span class="text-[10px] px-2 py-1 bg-neutral-900 rounded border border-neutral-800 text-neutral-400">Docker</span>
-                    </div>
-                </div>
-
-                <!-- CODATA -->
-                <div class="group relative pl-6 md:pl-8 border-l border-neutral-800 pb-2 hover:border-blue-500 transition-colors">
-                    <div class="absolute w-3 h-3 bg-neutral-800 group-hover:bg-blue-500 rounded-full -left-[6.5px] top-1.5 transition-colors"></div>
-                    <div class="flex flex-col md:flex-row md:justify-between md:items-start mb-2">
-                        <h3 class="text-lg md:text-xl font-bold text-white leading-tight">Bolsista Fullstack — CODATA</h3>
-                        <span class="text-xs md:text-sm text-neutral-500 font-mono mt-1 md:mt-0">2023 — 2024</span>
-                    </div>
-                    <p class="text-sm md:text-base text-neutral-400 max-w-3xl leading-relaxed">
-                        Desenvolvimento de sistemas para a Companhia de Processamento de Dados da Paraíba através do laboratório AYTY.
-                    </p>
-                </div>
-            </div>
-        </section>
-
-        <!-- Projetos -->
-        <section id="projetos" class="mb-32 opacity-0">
-            <h2 class="text-xs font-bold tracking-widest text-neutral-500 uppercase mb-12">Projetos em Destaque</h2>
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
-                <!-- RISC-I-Emu -->
-                <a href="https://github.com/710lucas/RISC-I-Emu" target="_blank" class="group glass p-6 md:p-8 rounded-3xl hover:border-red-500/50 transition-all block relative">
-                    <div class="w-12 h-12 bg-red-500/10 rounded-2xl flex items-center justify-center text-red-500 mb-6 group-hover:scale-110 transition-transform">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"></path></svg>
-                    </div>
-                    <h3 class="text-xl md:text-2xl font-bold text-white mb-2 group-hover:text-red-400 transition-colors">RISC-I-Emu</h3>
-                    <p class="text-sm md:text-base text-neutral-400 mb-6 leading-relaxed">Emulador baseado na arquitetura Berkeley RISC (RISC-I) criada por David A. Patterson. Desenvolvido em C++.</p>
-                    <div class="flex items-center text-[10px] md:text-xs font-mono text-neutral-500">
-                        <span class="mr-2">Ver repositório</span>
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                    </div>
-                </a>
-
-                <!-- Esonaldo Pereira -->
-                <a href="https://github.com/710lucas/esonaldo-pereira" target="_blank" class="group glass p-6 md:p-8 rounded-3xl hover:border-blue-500/50 transition-all block relative">
-                    <div class="w-12 h-12 bg-blue-500/10 rounded-2xl flex items-center justify-center text-blue-500 mb-6 group-hover:scale-110 transition-transform">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path></svg>
-                    </div>
-                    <h3 class="text-xl md:text-2xl font-bold text-white mb-2 group-hover:text-blue-400 transition-colors">Esonaldo Pereira</h3>
-                    <p class="text-sm md:text-base text-neutral-400 mb-6 leading-relaxed">Linguagem de programação esotérica inspirada no mito Ednaldo Pereira. Criatividade aplicada com Java.</p>
-                    <div class="flex items-center text-[10px] md:text-xs font-mono text-neutral-500">
-                        <span class="mr-2">Ver repositório</span>
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                    </div>
-                </a>
-
-                <!-- Portal Potiguara -->
-                <a href="https://github.com/710lucas/portal-potiguara" target="_blank" class="group glass p-6 md:p-8 rounded-3xl hover:border-green-500/50 transition-all block relative">
-                    <div class="w-12 h-12 bg-green-500/10 rounded-2xl flex items-center justify-center text-green-500 mb-6 group-hover:scale-110 transition-transform">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9"></path></svg>
-                    </div>
-                    <h3 class="text-xl md:text-2xl font-bold text-white mb-2 group-hover:text-green-400 transition-colors">Portal Potiguara</h3>
-                    <p class="text-sm md:text-base text-neutral-400 mb-6 leading-relaxed">Plataforma dedicada à preservação e visibilidade das produções culturais do povo Potiguara.</p>
-                    <div class="flex items-center text-[10px] md:text-xs font-mono text-neutral-500">
-                        <span class="mr-2">Ver repositório</span>
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                    </div>
-                </a>
-
-                <!-- Plantão Psicológico -->
-                <a href="https://github.com/710lucas/plantao-psicologico" target="_blank" class="group glass p-6 md:p-8 rounded-3xl hover:border-orange-500/50 transition-all block relative">
-                    <div class="w-12 h-12 bg-orange-500/10 rounded-2xl flex items-center justify-center text-orange-500 mb-6 group-hover:scale-110 transition-transform">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
-                    </div>
-                    <h3 class="text-xl md:text-2xl font-bold text-white mb-2 group-hover:text-orange-400 transition-colors">Plantão Psicológico</h3>
-                    <p class="text-sm md:text-base text-neutral-400 mb-6 leading-relaxed">Sistema para agendamento e gestão de plantões psicológicos, focado em otimização de atendimento.</p>
-                    <div class="flex items-center text-[10px] md:text-xs font-mono text-neutral-500">
-                        <span class="mr-2">Ver repositório</span>
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                    </div>
-                </a>
-            </div>
-        </section>
-
-        <!-- Contato -->
-        <section id="contato" class="opacity-0">
-            <div class="glass p-8 md:p-12 rounded-[32px] md:rounded-[40px] text-center max-w-3xl mx-auto">
-                <h2 class="text-3xl md:text-4xl font-bold text-white mb-6 tracking-tighter">Vamos conversar?</h2>
-                <p class="text-sm md:text-lg text-neutral-400 mb-8 md:mb-10 leading-relaxed">
-                    Interessado em sistemas de baixo nível, IA ou apenas quer trocar uma ideia sobre tecnologia.
-                </p>
-                <div class="flex flex-col items-center justify-center gap-6">
-                    <a href="mailto:lucasperonicobarbotin@gmail.com" class="text-lg md:text-xl font-bold text-white hover:text-blue-400 transition-all break-all md:break-normal px-4">
-                        lucasperonicobarbotin@gmail.com
-                    </a>
-                    <div class="flex items-center gap-6 text-sm md:text-base">
-                        <a href="https://github.com/710lucas" target="_blank" class="text-neutral-400 hover:text-white transition-colors">GitHub</a>
-                        <span class="text-neutral-800">|</span>
-                        <a href="https://linkedin.com/in/lucasbarbotin" target="_blank" class="text-neutral-400 hover:text-white transition-colors">LinkedIn</a>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <div>
+           <div class="flex items-center gap-3 mb-6">
+            <i data-lucide="map-pin" class="text-blue-600 w-6 h-6"></i>
+            <h3 class="text-xl font-semibold text-slate-900">Localização</h3>
+          </div>
+          <div class="bg-white p-6 rounded-xl border border-slate-100 shadow-sm flex items-center gap-4">
+             <div class="w-12 h-12 bg-blue-50 rounded-full flex items-center justify-center text-blue-600">
+               <i data-lucide="map-pin" class="w-6 h-6"></i>
+             </div>
+             <div>
+               <p class="font-medium text-slate-900">João Pessoa, PB</p>
+               <p class="text-sm text-slate-500">Brasil</p>
+             </div>
+          </div>
+        </div>
+      </section>
 
     </main>
 
-    <footer class="max-w-5xl mx-auto px-6 py-12 border-t border-neutral-900 text-center text-[10px] md:text-sm text-neutral-600">
-        <p>© 2025 Lucas Barbotin. João Pessoa, PB - Brasil.</p>
+    <footer class="border-t border-slate-200 bg-white py-8 text-center text-slate-500 text-sm">
+      <p>© 2026 Lucas Perônico Barbotin. Todos os direitos reservados.</p>
+      <p class="mt-1">Desenvolvido com HTML, Tailwind CSS e Lucide Icons.</p>
     </footer>
+  </div>
 
-    <script>
-        // Lógica do Menu Mobile
-        const menuBtn = document.getElementById('menu-btn');
-        const mobileMenu = document.getElementById('mobile-menu');
-        const menuIcon = document.getElementById('menu-icon');
-        const mobileLinks = document.querySelectorAll('.mobile-link');
-
-        let isMenuOpen = false;
-
-        function toggleMenu() {
-            isMenuOpen = !isMenuOpen;
-            if (isMenuOpen) {
-                mobileMenu.classList.add('open');
-                menuIcon.setAttribute('d', 'M6 18L18 6M6 6l12 12'); // Ícone X
-                document.body.style.overflow = 'hidden'; // Previne scroll
-            } else {
-                mobileMenu.classList.remove('open');
-                menuIcon.setAttribute('d', 'M4 6h16M4 12h16M4 18h16'); // Ícone Hamburguer
-                document.body.style.overflow = '';
-            }
-        }
-
-        menuBtn.addEventListener('click', toggleMenu);
-        
-        // Fecha o menu ao clicar em um link
-        mobileLinks.forEach(link => {
-            link.addEventListener('click', () => {
-                if(isMenuOpen) toggleMenu();
-            });
-        });
-
-        // Observer para animações
-        const observerOptions = { threshold: 0.1 };
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('animate-in');
-                    entry.target.classList.remove('opacity-0');
-                }
-            });
-        }, observerOptions);
-
-        document.querySelectorAll('section').forEach(section => {
-            observer.observe(section);
-        });
-    </script>
+  <!-- Inicialização dos Ícones Lucide -->
+  <script>
+    lucide.createIcons();
+  </script>
 </body>
 </html>
