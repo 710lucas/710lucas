@@ -18,7 +18,7 @@
 
     </details>
     
-  - 💬 Ask me about **RISC-I**, **3ds homebrew**, **fullstack development**
+  - 💬 Ask me about **RISC-I**, **3ds homebrew**, **fullstack development**, and **AI Orchestration**
   - 🎲 Hobbies: Photography 📷 | Volleyball 🏐
 
 ---
