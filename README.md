@@ -71,6 +71,7 @@
       <li><a href="https://github.com/710lucas/RISC-I-Emu"><b>RISC-I Emulator:</b></a> A functional emulator for the RISC-I architecture.</li>
       <li><a href="https://github.com/710lucas/RISC-I-Compiler"><b>RISC-I Compiler:</b></a> A dedicated compiler for the RISC-I ecosystem.</li>
       <li><a href="https://710lucas.github.io/RISC-I-Compiler-web/public"><b>Web RISC-I Compiler:</b></a> A web-based code editor and compiler built with HTML/CSS/JS.</li>
+      <li><a href="https://github.com/710lucas/Gest-o-de-funcionarios-GISI"><b>Employee Management (GISI):</b></a> A management system designed for organizational staff administration.</li>
     </ul>
   </details>
 </p>
