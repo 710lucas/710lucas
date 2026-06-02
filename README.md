@@ -5,6 +5,7 @@
 
 <p align="left" width="50%">
   
+  - 🔭 Founder and Managing Director at [Uaná.Tech](https://uana.tech/)
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org) as a **Fullstack developer**
   - 🔭 Internship at [LedgerTec](https://ledgertec.com.br/) as a **Fullstack developer**
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
