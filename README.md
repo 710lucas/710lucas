@@ -4,6 +4,7 @@
 <img src="./banner.svg" align="right" width="470px">
 
 <p align="left" width="50%">
+  <p align='center'>🇧🇷 🇺🇸 🇫🇷 </p>
   
   - 🔭 Founder and Managing Director at [Uaná.Tech](https://uana.tech/)
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org) as a **Fullstack developer**
@@ -16,101 +17,68 @@
       - Studied for 4 months
 
     </details>
-    <br/>
+    
   - 💬 Ask me about **RISC-I**, **3ds homebrew**, **fullstack development**
   - 🎲 Hobbies: Photography 📷 | Volleyball 🏐
-  - 💻 Tech I'm currently using:
-    <img src="https://github-readme-stats-710lucas.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
-    <details>
-      <summary>Code editors</summary>
 
-      - VSCode
-      - Vim
-      - Intellij
-    </details>
-    <details>
-      <summary>Languages</summary>    
-      
-    - C++
-    - Javascript
-    - Typescript
-    - Java
-    - Python
-    </details>
-    <details>
-      <summary>Computer/OS</summary>
+---
 
-      - Notebook: Lenovo Legion Slim 5i
-      - OS: Windows 11/Arch Linux/Fedora
-      - Server: Sinapse - an old laptop running some services listed bellow
-          <details>
-            <summary>Sinapse's Services</summary>
-   
-          - Minecraft Server
-          - Github actions runner
-          - Personal websites
-          - Personal "NAS"
-          - Some DBs
-          - Others
-          </details>
-    </details>
-    <details>
-      <summary>Frameworks</summary>
+  ## 🛠️ Skills & Toolbox
 
-      - ExpressJS
-      - Fastify
-      - ReactJS
-      - NextJS
-      - Spring
+<img src="https://github-readme-stats-710lucas.vercel.app/api?username=710lucas&theme=transparent&hide_border=true&title_color=953636&show=prs_merged_percentage&show_icons=true&rank_icon=default&card_width=490" align="right">
 
-    </details>
+<p align="left">
+  <details open>
+    <summary>💻 Core Stack (Backend & Frontend)</summary>
+    <ul>
+      <li><b>Languages:</b> TypeScript, JavaScript, Java, Python, C++</li>
+      <li><b>Frameworks/Libs:</b> Node.js (ExpressJS, Fastify), ReactJS, Next.js, Angular, Spring Boot</li>
+    </ul>
+  </details>
 
-  - 🌳 Tech I know well:
-    
-    <details open>
-      <summary>Backend</summary>
-  
-    - Spring
-    - ExpressJS
-    - Fastify
-    - C++ (http)
-    - CrewAi
-    - Python
-      
-    </details>
-    <details>
-      <summary>Frontend (click to expand)</summary>
-  
-    - Typescript
-    - ReactJS
-    - Angular
-    - NextJS
-      
-    </details>
-        </details>
-    <details>
-      <summary>Other</summary>
-  
-    - homebrew (3ds, wii)
-    - C++
-    - Low level coding
-      
-    </details>
-  - ⚡ Fun fact: I created those projects:
-    <details open>
-      <summary>Projects</summary>
-  
-    - [Esonaldo Pereira](https://github.com/710lucas/esonaldo-pereira): An [esolang](https://esolangs.org/wiki/Esoteric_programming_language)
-    - [RISC-I emulator](https://github.com/710lucas/RISC-I-Emu): A simple RISC-I emulator
-    - [RISC-I compiler](https://github.com/710lucas/RISC-I-Compiler): A compiler for the RISC-I emulator
-    - [Web RISC-I Compiler & Code editor](https://710lucas.github.io/RISC-I-Compiler-web/public): A simple code editor and compiler made in html, css and JS
-      
-    </details>
-  
-
+  <details>
+    <summary>⚙️ Infrastructure, Homelab & Tools</summary>
+    <ul>
+      <li><b>OS/Environments:</b> Linux (Fedora/Arch), Windows 11</li>
+      <li><b>Monitoring & Ops:</b> Docker, Zabbix, SNMP</li>
+      <li><b>Server "Sinapse":</b> A homelab running Dockerized services:
+        <ul>
+          <li>Minecraft Server, GitHub Actions Runner, Personal NAS, and Databases</li>
+        </ul>
+      </li>
+    </ul>
+  </details>
 </p>
 
+---
 
+## 🏆 Beyond the Code (Achievements & Involvement)
+
+- 🚀 **Hackathon Oceano Digital (2026):** Developed **EcoTurPB**, a digital platform focused on sustainable tourism and environmental preservation.
+- 🎓 **UFPB Symposium (2026):** Attended the "Technologies for Integrating Sustainable Development" symposium.
+- 🛡️ **Cybersecurity Residency - WCUC, UK (2024):** Completed an international academic residency at Warwickshire College. Focused on **Computer Networks and Cyber Security** as part of the "Paraíba sem Fronteiras" program.
+- 🌍 **Ambassador of "Paraíba sem Fronteiras":** Acted as an ambassador for the state exchange program, representing the initiative during and after the residency in the United Kingdom.
+
+---
+
+## ⚡ Featured Projects
+
+<p align="left">
+  <details open>
+    <summary>Click to expand</summary>
+    <ul>
+      <li><a href="https://github.com/710lucas/esonaldo-pereira"><b>Esonaldo Pereira:</b></a> An esoteric programming language (esolang).</li>
+      <li><a href="https://github.com/710lucas/RISC-I-Emu"><b>RISC-I Emulator:</b></a> A functional emulator for the RISC-I architecture.</li>
+      <li><a href="https://github.com/710lucas/RISC-I-Compiler"><b>RISC-I Compiler:</b></a> A dedicated compiler for the RISC-I ecosystem.</li>
+      <li><a href="https://710lucas.github.io/RISC-I-Compiler-web/public"><b>Web RISC-I Compiler:</b></a> A web-based code editor and compiler built with HTML/CSS/JS.</li>
+    </ul>
+  </details>
+</p>
+
+---
+
+
+  
 <br>
 <br>
 
@@ -120,20 +88,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=710lucas&layout=compact">  
+  <img src="https://github-readme-stats-710lucas.vercel.app/api/top-langs/?username=710lucas&layout=compact">  
   <img src="https://streak-stats.demolab.com?user=710lucas&hide_border=true">
 </p>
-
-
-
-
-  
-
-
-
-
-
-
 <br>
 <br>
 
