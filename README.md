@@ -1,4 +1,4 @@
-<h1 align="left">Olá! | Hello there 👋
+<h1 align="left">Hello there 👋
 </h1>
 
 <img src="./banner.svg" align="right" width="470px">
