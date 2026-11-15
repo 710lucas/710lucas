@@ -9,22 +9,22 @@
   - 🔭 Founder and Managing Director at [Uaná.Tech](https://uana.tech/)
   - 🔭 I’m currently working with [VivaMoveis](https://vivamoveis.com/) at [Ayty](https://ayty.org) as a **Fullstack developer**
   - Past experiences
-  - 🔭 ~~Internship at [LedgerTec](https://ledgertec.com.br/) as a **Fullstack developer**~~
-    <details>
-      <summary>Stack</summary>
+    - 🧑‍💻 ~~Internship at [LedgerTec](https://ledgertec.com.br/) as a **Fullstack developer**~~
+      <details>
+        <summary>Stack</summary>
 
-      - NextJS, React + Typescript, ExpressJS, Blockchain, Ethereum, Archivematica, Interplanetary File System (IPS), NFT, Smart Contracts (Solidity)
-      - Gitlab, Gitlab`s CI/CD, Docker
+        - NextJS, React + Typescript, ExpressJS, Blockchain, Ethereum, Archivematica, Interplanetary File System (IPS), NFT, Smart Contracts (Solidity)
+        - Gitlab, Gitlab`s CI/CD, Docker
       
-    </details>
-  - 🔭 ~~Fullstack developer at [Ayty](https://ayty.org) in partnership with [Codata](https://codata.pb.gov.br/)~~
-    <details>
-      <summary>Stack</summary>
+      </details>
+    - 🧑‍💻 ~~Fullstack developer at [Ayty](https://ayty.org) in partnership with [Codata](https://codata.pb.gov.br/)~~
+      <details>
+        <summary>Stack</summary>
 
-      - React + Typescript, Spring Framework, PostgreSQL,
-      - Github, Github CI/CD, Linux, Docker
+        - React + Typescript, Spring Framework, PostgreSQL,
+        - Github, Github CI/CD, Linux, Docker
       
-    </details>
+      </details>
   - 📑 Student at [Federal University of Paraíba (UFPB)](https://ufpb.br)
     <details>
       <summary>🌍 Cybersecurity WCUC - UK</summary>
